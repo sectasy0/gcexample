@@ -1,0 +1,12 @@
+C:\Users\LSD\source\repos\AssaultCubeCheats\bin\Debug\AssaultCubeCheats.exe.config
+C:\Users\LSD\source\repos\AssaultCubeCheats\bin\Debug\AssaultCubeCheats.exe
+C:\Users\LSD\source\repos\AssaultCubeCheats\bin\Debug\AssaultCubeCheats.pdb
+C:\Users\LSD\source\repos\AssaultCubeCheats\obj\Debug\AssaultCubeCheats.csprojAssemblyReference.cache
+C:\Users\LSD\source\repos\AssaultCubeCheats\obj\Debug\AssaultCubeCheats.Properties.Resources.resources
+C:\Users\LSD\source\repos\AssaultCubeCheats\obj\Debug\AssaultCubeCheats.csproj.GenerateResource.cache
+C:\Users\LSD\source\repos\AssaultCubeCheats\obj\Debug\AssaultCubeCheats.csproj.CoreCompileInputs.cache
+C:\Users\LSD\source\repos\AssaultCubeCheats\obj\Debug\AssaultCubeCheats.exe
+C:\Users\LSD\source\repos\AssaultCubeCheats\obj\Debug\AssaultCubeCheats.pdb
+C:\Users\LSD\source\repos\AssaultCubeCheats\obj\Debug\AssaultCubeCheats.AssaultCubeCheatForm.resources
+C:\Users\LSD\source\repos\AssaultCubeCheats\obj\Debug\AssaultCubeCheats.csproj.CopyComplete
+C:\Users\LSD\source\repos\AssaultCubeCheats\bin\Debug\VAMemory.dll
